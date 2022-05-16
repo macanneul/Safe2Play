@@ -1,8 +1,12 @@
 # Safe2Play
 
-This is my sandpit, where I try things out.
+This is my sandpit, where I try out new things.
 
 ## Contents
 
-> Hallo_Python.py   
-> Sandpit.py
+Not much to see here.
+
+---
+[Check out](https://github.com/macanneul/Python_for_Everybody.git) how I am getting on with Python for Everybody!
+
+Patrick Lee MacLeod 🦄
