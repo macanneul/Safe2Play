@@ -1,6 +1,6 @@
 # Safe2Play
 
-This is my sandpit, where I make a mess and try out new things.
+This is my sandpit, where I make a mess and try things out.
 
 ## Contents
 
