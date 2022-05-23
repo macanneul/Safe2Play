@@ -1,12 +1,12 @@
 # Safe2Play
 
-This is my sandpit, where I try out new things.
+This is my sandpit, where I make a mess and try out new things.
 
 ## Contents
 
-Not much to see here.
+| Date | What's New |
+| --- | --- |
+| 23 May 2022 | Not much to see here. I am focused on learning the basics with [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/) just now. See how I am getting on [here](https://github.com/macanneul/Python_for_Everybody.git).
 
 ---
-[Check out](https://github.com/macanneul/Python_for_Everybody.git) how I am getting on with Python for Everybody!
-
 Patrick Lee MacLeod 🦄 
